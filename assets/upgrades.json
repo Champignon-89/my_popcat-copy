@@ -1,0 +1,15 @@
+{
+  "upgrades": [
+    {
+      "name": "Double Click",
+      "price": 10,
+      "increment": 1
+    },
+    {
+      "name": "Triple Click",
+      "price": 100,
+      "increment": 2
+    }
+  ]
+}
+
